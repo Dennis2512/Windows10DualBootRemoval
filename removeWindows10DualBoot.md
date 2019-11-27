@@ -2,17 +2,17 @@
 
 If you have Windows 10 and Linux installed, and you want to remove Linux, here is a short description about how to do that.
 
-### NOTE
+### Note
 * You should backup all your important data from the Linux system, otherwise they will be lost. Do also backup important files from Windows.
 * I do not accept any liability for damage to your computer system or loss of data that results from your use of this instruction.
 
 ### Definition
-* GRUB = Grand Unified Bootloader
-* Instead of "Volume" you can also say "Partition"
+* **GRUB** = Grand Unified Bootloader
+* Instead of "**Volume**" you can also say "**Partition**"
 
 ### Delete Linux:
-* Open Windows Disk Management by pressing `Windows + R` and typing in `diskmgmt.msc`
-* Find the volume where Linux is installed on and find the volume for the Linux Swap Area
+* Open **Windows Disk Management** by pressing `Windows + R` and typing in `diskmgmt.msc`
+* Find the volume where **Linux** is installed on and find the volume for the **Linux Swap Area**
 * Volumes belonging to Linux often do not have any entries below "File System"
 * Right click both volumes and select `Delete Volume...`
 
