@@ -1,5 +1,4 @@
 # Remove Windows 10 DualBoot and GRUB Bootloader
-
 If you have Windows 10 and Linux installed, and you want to remove Linux, here is a short description about how to do that.
 
 ### Note
@@ -9,6 +8,11 @@ If you have Windows 10 and Linux installed, and you want to remove Linux, here i
 ### Definition
 * **GRUB** = Grand Unified Bootloader
 * Instead of "**Volume**" you can also say "**Partition**"
+
+### GRUB Console:
+This is how the GRUB-Console looks like:
+
+![https://praxistipps-images.chip.de/xFV0Cn6g9XnW7pQAwIBvaS_fYxE=/0x0/filters:format(jpeg):fill(000,true):no_upscale()/praxistipps.s3.amazonaws.com%2Fdie-grub-rescue-kommandozeile-startet-statt-windows-10_000f7e4d.png](https://raw.githubusercontent.com/Dennis2512/Windows10DualBootRemoval/master/image_assets/grub.png)
 
 ### Delete Linux:
 * Open **Windows Disk Management** by pressing `Windows + R` and typing in `diskmgmt.msc`
