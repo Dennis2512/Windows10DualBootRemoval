@@ -37,4 +37,6 @@ This is how the GRUB-Console looks like:
 * Type in `dir` again to show all available directories, you should see your installed Linux Distribution as one of them
 * To delete this folder, type in `rmdir /s <name of linux directory>` and confirm your action by typing in `y`
 * If you now type in `dir` again, the folder should be gone
-* Now, restart you computer and Windows will boot instantly
+* Now, restart you computer and **Windows will boot instantly**
+
+You have now successfully removed DualBoot off your Windows 10 PC.
